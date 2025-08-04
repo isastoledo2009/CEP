@@ -1,0 +1,30 @@
+body{
+    background-color: cornflowerblue;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(171, 205, 235);
+    font-family:'Courier New', Courier, monospace
+}
+
+h3 {
+    text-align:center;
+    background-color: rgb(171, 205, 235);;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    height: 30px;
+    width: 200px;
+    background-color:rgb(171, 205, 235);
+    color:white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: aliceblue;
+    color: rgb(155, 176, 235);
+}
